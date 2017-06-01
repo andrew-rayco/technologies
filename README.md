@@ -1,4 +1,4 @@
-# technologies
+# Technologies
 Getting a grip on all the tech and concepts that I'm fuzzy on
 
 ## React-router
