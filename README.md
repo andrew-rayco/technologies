@@ -8,6 +8,7 @@ Doesn't always seem necessary for routes? Why not?
 ## Superagent
 It is an API, or accesses API?
 Example: 
+```javascript
 request
   .post('/api/pet')
   .send({ name: 'Manny', species: 'cat' })
@@ -16,6 +17,7 @@ request
   .end(function(err, res){
     // Calling the end function will send the request 
   });
+```
   
 ## Promises
 https://www.promisejs.org/
