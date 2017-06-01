@@ -27,3 +27,10 @@ pending - The initial state of a promise.
 fulfilled - The state of a promise representing a successful operation.
 rejected - The state of a promise representing a failed operation.
 Once a promise is fulfilled or rejected, it is immutable (i.e. it can never change again).
+
+## Redux
+..though it's early days yet
+
+## Express server setup
+Still not that comfortable with what some of the initial setup commands do
+
